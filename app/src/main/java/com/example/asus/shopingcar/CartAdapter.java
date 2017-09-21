@@ -14,11 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 创建时间  2017/9/10 20:26
- * 创建人
- * 类描述
- */
+
 public class CartAdapter extends BaseAdapter {
 
     private Context context;
